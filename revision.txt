@@ -1,6 +1,6 @@
 Liste des sujets à réviser:
 - - - - - - - - - - - - - - -
-Maths : Matrice
+Maths : Matrice (C'est fait)
 Physique : Filtre passe-bas
-Informatique : Docker
+Informatique : Docker(En cours)
 Programmation : Langage C
